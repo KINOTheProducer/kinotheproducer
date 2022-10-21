@@ -4,12 +4,14 @@ Hi 👋 My name is KINO
 Web Developer, Designer, Music Producer & Streamer
 --------------------------------------------------
 
-I coded my first site when I was 14 years old - almost half a life ago, haha. HTML4, PHP and Wordpress were all platforms I used back then. In the time between then and now, I've taken up lots of freelance web dev projects, while also working a multitude of different roles at different companies - most recently, I was a Live Operations Producer on NBA Top Shot, an officially licensed NBA trading card game built on the FLOW blockchain. After going through tech layoffs this past summer, I realized now is the time to fully dive into development and learning all the new frameworks that exist out there. I've always been a creative at heart - with 15 years of music production and 6 years of streaming on Twitch under my belt, so I knew that jumping into React would be a wonderful first step for my continued learning!
+I coded my first site when I was 14 years old - almost half a life ago, haha. HTML4, PHP and Wordpress were all platforms I used back then. In the time between then and now, I've taken up lots of freelance web dev projects, while also working a multitude of different roles at different companies - most recently, I was a Live Operations Producer on NBA Top Shot, an officially licensed NBA trading card game built on the FLOW blockchain. 
+
+After going through tech layoffs this past summer, I realized now is the time to fully dive into development and learning all the new frameworks that exist out there. I've always been a creative at heart - with 15 years of music production and 6 years of streaming on Twitch under my belt, so I knew that jumping into React would be a wonderful first step for my continued learning!
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [kino.dev](http://kino.dev)
 * ✉️  You can contact me at [hey@kino.dev](mailto:hey@kino.dev)
-* 🚀  I'm currently working on [FlyLillo](http://flylillo.com)
+* 🚀  I'm currently working on [FlyLillo](http://flylillo.com) - a site for a non-profit organization out of Italy bringing more accessibility to gaming for those with disabilities.
 * 🧠  I'm learning React, Tailwind, Typescript, Redux, Hydrogen
 * 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
 
