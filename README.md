@@ -1,4 +1,4 @@
-Hey! My name is Anthony, but I go by KINO as well 🙂 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hey! My name is Anthony. You can call me KINO if you'd like ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================
 
 Web Developer, Designer, Music Producer & Streamer
