@@ -14,6 +14,8 @@ After going through tech layoffs this past summer, I realized now is the time to
 * 🧠  I'm learning React, Tailwind, Typescript, Redux, Hydrogen
 * 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=dfa84d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&redirect=true)
+
 <a href="https://www.twitter.com/KINOTheProducer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KINOTheProducer?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a><a href="https://www.twitch.tv/KINOTheProducer" target="_blank" rel="noreferrer"><img
