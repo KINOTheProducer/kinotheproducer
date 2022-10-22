@@ -11,7 +11,7 @@ After going through tech layoffs this past summer, I realized now is the time to
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [kino.dev](http://kino.dev)
 * ✉️  You can contact me at [hey@kino.dev](mailto:hey@kino.dev)
-* 🚀  I'm currently working on [FlyLillo](http://flylillo.com) - a site for a non-profit organization out of Italy bringing more accessibility to gaming for those with disabilities.
+* 🚀  I'm currently working on [FlyLillo](http://flylillo.com) - a site for a non-profit organization out of Italy focused on bringing accessibility to gaming for those with disabilities.
 * 🧠  I'm learning React, Tailwind, Typescript, Redux, Hydrogen
 * 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
 
