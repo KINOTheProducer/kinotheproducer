@@ -10,8 +10,7 @@ After going through tech layoffs this past summer, I realized now is the time to
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [hey@kino.dev](mailto:hey@kino.dev)
-* 🚀  I'm currently working on [FlyLillo](http://flylillo.com) - a site for a non-profit organization out of Italy focused on bringing accessibility to gaming for those with disabilities.
-* 🧠  I'm learning React, Tailwind, Typescript, Redux, Hydrogen
+* 🧠  I'm always learning more about React, Next, Tailwind CSS & Typescript
 * 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=dfa84d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&redirect=true)
