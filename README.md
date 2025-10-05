@@ -4,16 +4,18 @@ Hey! My name is Anthony. You can call me KINO if you'd like ![](https://user-ima
 Web Developer, Designer, Music Producer & Streamer
 --------------------------------------------------
 
-I coded my first site when I was 14 years old - almost half a life ago, haha. HTML4, PHP and Wordpress were all platforms I used back then. In the time between then and now, I've taken up lots of freelance web dev projects, while also working a multitude of different roles at different companies - most recently, I was a Live Operations Producer on NBA Top Shot, an officially licensed NBA trading card game built on the FLOW blockchain. 
+I've been building for the web since I was 14 - over 16 years ago. Started with HTML4, PHP and WordPress, then spent years freelancing and working across different industries. Most recently, I was a Live Operations Producer on NBA Top Shot, an officially licensed NBA trading card game built on the FLOW blockchain.
 
-After going through tech layoffs this past summer, I realized now is the time to fully dive into development and learning all the new frameworks that exist out there. I've always been a creative at heart - with 15 years of music production and 6 years of streaming on Twitch under my belt, so I knew that jumping into React would be a wonderful first step for my continued learning!
+Now I'm the first Customer Success hire at StoreLocators, a Shopify app that shows live retail inventory - helping brands display real-time product availability across thousands of store locations. I get to combine technical skills with customer experience - building automation workflows, designing custom implementations, coding tools that eliminate manual processes, and creating systems that help our merchants succeed.
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [hey@kino.dev](mailto:hey@kino.dev)
-* 🧠  I'm always learning more about React, Next, Tailwind CSS & Typescript
-* 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
+My background as a creative (18 years of music production, 9 years streaming on Twitch) shaped how I approach problems - I love finding elegant solutions and building things that just work. These days, that means architecting customer success workflows in Next.js, automating research pipelines, and turning repetitive tasks into seamless experiences.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&cover_image=false&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&redirect=true)
+* 🌍  I'm based in Toronto
+* ✉️  You can contact me at hey@kino.dev
+* 🧠  Currently deep in Next.js, TypeScript, Tailwind & workflow automation
+* 🤝  I'm open to collaborating on projects that make people's lives easier
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&redirect=true)
 
 <a href="https://www.twitter.com/KINOTheProducer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KINOTheProducer?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
