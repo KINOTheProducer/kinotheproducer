@@ -13,7 +13,7 @@ After going through tech layoffs this past summer, I realized now is the time to
 * 🧠  I'm always learning more about React, Next, Tailwind CSS & Typescript
 * 🤝  I'm open to collaborating on projects for the greater good of humanity 💙
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=dfa84d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=antixprod&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&cover_image=false&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=antixprod&redirect=true)
 
 <a href="https://www.twitter.com/KINOTheProducer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KINOTheProducer?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
